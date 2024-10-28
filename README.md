@@ -4,9 +4,8 @@
 
 ---
 
-<p align="center">
-  <img src="images/mehedi_hasan_1.jpeg" height="250" width="250"/>
-  <img src="images/mehedi_hasan_2.jpeg" height="250" width="250"/>
+<p align="right">
+  <img src="images/mehedi_hasan.jpeg" height="250" width="250"/>
 </p>
 
 ---
