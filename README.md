@@ -1,68 +1,32 @@
-# Hi there 🙋‍♂️
+![Android App Developer 📱](https://raw.githubusercontent.com/mehedihasansrijon/mehedihasansrijon.github.io/refs/heads/main/images/Banner.jpg)
 
-## I'm Mehedi Hasan Srijon - Android App Developer 📱
+### Hi there 👋, I'm Mehedi Hasan Srijon
+#### Android App Developer 📱
 
----
+Hi! I'm Mehedi Hasan Srijon, an Android App Developer with 3+ years of experience in Java programming. I have a passion for building user-friendly mobile apps with modern technologies like Firebase, MySQL, and SQLite.
 
-<p align="right">
-  <img src="images/mehedi_hasan.jpeg" height="250" width="250"/>
-</p>
+Skills: Java / XML/ PHP / HTML / CSS / Dart / Python
 
----
+- 🔭 I’m currently working on Timely Technologies 
+- 🌱 I’m currently learning PHP 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Android Development 
+- 😄 Pronouns: None 
 
-## Professional Summary 🤷🏻‍♂️
 
-___Innovative and dedicated Android App Developer with over 3 years of experience in Java programming. Proven expertise in designing, developing, and deploying high-quality mobile applications. Skilled in leveraging modern technologies including Firebase, MySQL, and SQLite, with a strong focus on user-centered design.___
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mehedihasansrijon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mehedihasansrijon/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mehedihasansrijon0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mehedihasansrijon//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/mehedihasansrij)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@mehedihasansrijon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mehedihasansrijon.github.io/)  
 
---- 
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-## Technical Skills 🤹🏻
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/mehedihasansrijon/)](https://github.com/ryo-ma/github-profile-trophy)
 
-- **Programming Languages:** Java, PHP
-- **Frontend Development:** XML
-- **Backend Technologies:** Firebase, MySQL, SQLite
-- **Tools & IDEs:** Android Studio, Git, VSCode
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/mehedihasansrijon/)](https://github.com/anuraghazra/github-readme-stats)
 
---- 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/mehedihasansrijon/&show_icons=true&count_private=true)  
 
-## Professional Experience 🙂
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/mehedihasansrijon//contributions?format=svg&private=true)  
 
-___Self-Directed Projects___
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/mehedihasansrijon/)  
 
-- Developed and maintained various Android applications using Java, ensuring high performance and responsiveness.
-- Implemented backend solutions using Firebase, MySQL, and SQLite, providing robust data management and storage.
-- Designed intuitive user interfaces and user experiences, enhancing user engagement and satisfaction.
-- Managed project lifecycle from concept to deployment, incorporating feedback to deliver quality solutions.
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/mehedihasansrijon/)  
 
----
-
-## Notable Projects 👨🏻‍💻
-
----
-
-## Certifications & Training 🧑‍🎓
-
----
-
-## Skills 🤹
-
-- Exceptional problem-solving abilities and attention to detail.
-- Proficient in both independent and collaborative work environments.
-- Committed to continuous learning and adapting to emerging technologies.
-
----
-
-## Contact Me ☎📱
-
-You can connect with me through the following platforms:
-
-- [LinkedIn](https://www.linkedin.com/in/mehedihasansrijon)
-- [GitHub](https://github.com/mehedihasansrijon)
-- [Facebook](https://www.facebook.com/mehedihasansrijon0)
-- [Instagram](https://www.instagram.com/mehedihasansrijon)
-- [Threads](https://www.threads.net/@mehedihasansrijon)
-- [Email](mailto:srijon.the.dreamer@gmail.com)
-- [WhatsApp](https://wa.link/hzqwtf)
-- [Website](https://mehedihasansrijon.github.io/mehedihasansrijon/)
-
----
