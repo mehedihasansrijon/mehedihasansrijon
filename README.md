@@ -32,7 +32,6 @@ I strongly believe that **technology can connect people across the world**, and 
 
 - 📱 Professional **Android App Developer**
 - 🚀 **Published apps on Google Play Store**
-- 🎥 Creating **tech tutorials and digital content**
 - 🌍 Planning to **travel and visit many countries**
 - 📚 Currently **learning and preparing for IELTS**
 - 🧠 Always improving skills and exploring new technologies
@@ -100,7 +99,7 @@ I strongly believe that **technology can connect people across the world**, and 
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mehedihasansrijon/">
+<a href="https://www.linkedin.com/in/srijon.the.dreamer/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
